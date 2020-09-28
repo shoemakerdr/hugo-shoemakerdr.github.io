@@ -1,8 +1,8 @@
-[submodule "themes/PaperMod"]
-	path = themes/PaperMod
-	url = git@github.com:adityatelange/hugo-PaperMod.git
-    branch = master
 [submodule "public"]
 	path = public
 	url = git@github.com:shoemakerdr/shoemakerdr.github.io.git
+	branch = master
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = git@github.com:adityatelange/hugo-PaperMod.git
 	branch = master

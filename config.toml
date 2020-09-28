@@ -1,0 +1,29 @@
+baseURL = "https://derekshoemaker.com"
+languageCode = "en-us"
+title = "Derek Shoemaker: Software Engineer"
+theme = "PaperMod"
+
+[params]
+defaultTheme = "dark"
+layout = "archives"
+
+[params.profileMode]
+enabled = true
+imageUrl = "derekbear.jpg"
+Title = "Hello, I'm Derek. I love solving problems in ways that delight other humans."
+
+[[params.profileMode.buttons]]
+name = "Github"
+url = "https://github.com/shoemakerdr"
+
+[[params.profileMode.buttons]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/derekshoemaker/"
+
+[[params.profileMode.buttons]]
+name = "Twitter"
+url = "https://twitter.com/derekshoedev"
+
+[[params.profileMode.buttons]]
+name = "dragonbook"
+url = "/dragonbook/"

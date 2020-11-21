@@ -24,6 +24,6 @@ url = "https://www.linkedin.com/in/derekshoemaker/"
 name = "Twitter"
 url = "https://twitter.com/derekshoedev"
 
-[[params.profileMode.buttons]]
-name = "dragonbook"
-url = "/dragonbook/"
+# [[params.profileMode.buttons]]
+# name = "dragonbook"
+# url = "/dragonbook/"
